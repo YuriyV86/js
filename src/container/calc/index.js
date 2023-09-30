@@ -72,6 +72,6 @@ class Calc {
   }
 }
 
-window.calc = Calc
-
 Calc.init()
+
+window.calc = Calc
